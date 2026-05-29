@@ -1,22 +1,22 @@
 {
     "domain": "bath.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "수건 및 가운",
+        "욕실 용품",
+        "샤워기 및 비데"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang bath items."
+        "수건 및 가운": {
+            "topic": "Bath towels, bathrobes, face towels.",
+            "role": "Bath textile expert."
         },
-        "수유/이유식": {
-            "topic": "bath bottle sterilizers, bath food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "욕실 용품": {
+            "topic": "Bath mats, shower curtains, soap dispensers.",
+            "role": "Bathroom interior guide."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "샤워기 및 비데": {
+            "topic": "Shower heads, bidets, water filters.",
+            "role": "Bathroom hygiene specialist."
         }
     }
 }
